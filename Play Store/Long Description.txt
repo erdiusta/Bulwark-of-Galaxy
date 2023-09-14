@@ -1,0 +1,12 @@
+The galaxy is in trouble. Do your best to save it!
+
+If you are familiar with old Arcade Games like Galaxian, Star Force, Galaga, you can find this game interesting for you.
+
+💡 FEATURES:
+- 9 scenes, 3 levels.
+- Various power-ups you can find interesting
+- 5 types enemies with 4 different power ranks
+- 2 types of meteors with 2 different size
+
+🎮 HOW TO PLAY:
+- Slide to control your ship to dodge meteors, enemies and their bullets
